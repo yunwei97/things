@@ -1,2 +1,1 @@
-# things
-初见
+# Hello VuePress!
