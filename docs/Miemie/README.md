@@ -2,10 +2,6 @@
 title: 咩咩
 ---
 
-## 这里是测试两个栏
+## Do you like what you see ♂
 
-# 一个井号是什么呢？
-
-### 二级标题
-## 一级标题
-## 另一个一级标题
+![chijiang](/assets/img/chijiang.jpg)
